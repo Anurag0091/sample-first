@@ -1,0 +1,3 @@
+Tableau details:
+https://www.freecodecamp.org/news/build-a-covid-tracker-dashboard-using-tableau/
+Here's the link to the connector: https://basic-csv-wdc.herokuapp.com/
