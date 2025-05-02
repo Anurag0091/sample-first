@@ -2,7 +2,7 @@
 
 GpGwIIYXKrlfhs6x6RJpvrMMSEduqRfmrrhrr9OI4RJwQ -Access Token Secret 
 
-This is a revertoption
+
 2Wq9ypmCcPVtEt9aP0an7F5Z0-API Key
 QgBOC5h90tZyxQwkygG6YegzpB6XzP1cN7SAlWTeRDjk2IA5A2 - API Secret key
 
